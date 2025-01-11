@@ -22,3 +22,7 @@ Language Support
 1.  Spanish Language support - end of road if no continued development.
 2.  Add German, Dutch, Italian, French, common Latin script languages.
 3.  Add Cyrillic, Chinese, Arabic, Japanese, Hangul, Devanagari, Bengali.
+
+## Documentation
+
+Implementation details and documentation lives next to the code in this repository, while documentation for higher level concepts and use lives in the wiki tab.
