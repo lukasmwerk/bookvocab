@@ -1,5 +1,8 @@
 # Local pdfs for testing or debugging
 data/*.pdf
+data/*.md
+!data/alejo-carpentier-los-pasos-perdidos.pdf
+!data/output.md
 
 
 
