@@ -360,7 +360,7 @@ Simón.:	Simon.
 invitaciones:	invitations
 tentadoras:	tempting
 desoyendo:	ignoring
-urgido:	urgent
+urgido:	urged
 abrigo:	shelter
 «También:	"Also
 guía.:	guide.
@@ -1108,7 +1108,7 @@ devueltas:	returned
 :	138
 octubre):	October)
 cómitre.:	comitre
-mazo:	the little one
+mazo:	the small
 Hombre-Ninguno:	Man-None
 Hombre-Avispa:	Wasp-Man
 acepto:	I accept

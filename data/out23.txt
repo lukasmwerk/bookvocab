@@ -1386,7 +1386,7 @@ devueltas:	returned
 :	138
 octubre):	October)
 cómitre.:	comitre
-mazo:	the little one
+mazo:	the small
 Hombre-Ninguno:	Man-None
 Hombre-Avispa:	Wasp-Man
 condición:	condition

@@ -357,7 +357,7 @@ crucé:	crossing
 comercio:	trade
 cerrara:	will close
 temor:	fear
-urgido:	urgent
+urgido:	urged
 escaleras:	stairs
 Bajé:	I went down
 colillas.:	butts.

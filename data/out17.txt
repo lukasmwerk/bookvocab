@@ -302,7 +302,7 @@ busca:	search
 danta:	interest
 rompía:	broke
 matapalos:	lazy
-enredaderas:	vines
+enredaderas:	creepers
 matas:	fed
 intríngulis:	intrigued
 trabada:	stuck

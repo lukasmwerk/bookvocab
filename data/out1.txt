@@ -546,7 +546,7 @@ prematuramente:	prematurely
 oscurecido:	darkened
 importa;:	matters;
 responden:	respondents
-urgido:	urgent
+urgido:	urged
 hora:	time
 Pregunto:	Asked
 veinte.:	twenty.

@@ -715,7 +715,7 @@ hasta:	until
 crecer:	grow
 tornaron:	they returned
 Anunciación.:	Annunciation.
-regresó:	returned
+regresó:	return
 Natividad:	Nativity
 borróse:	blurry
 templo:	temple

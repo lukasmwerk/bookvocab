@@ -341,7 +341,7 @@ Simón.:	Simon.
 invitaciones:	invitations
 tentadoras:	tempting
 desoyendo:	ignoring
-urgido:	urgent
+urgido:	urged
 abrigo:	shelter
 «También:	"Also
 guía.:	guide.
